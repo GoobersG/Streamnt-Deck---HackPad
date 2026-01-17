@@ -115,7 +115,7 @@ Designed and built as a Hack Club hardware project.
 - Hardware: ✅ complete  
 - PCB: ✅ routed and exported  
 - Case: ✅ designed and printable  
-- Firmware: 🚧 work in progress  
+- Firmware: Demo Ready
 
 ---
 
