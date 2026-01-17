@@ -60,10 +60,10 @@ Designed and built as a Hack Club hardware project.
 - STEP file for enclosure design
 
 ## PCB Images
-![Alt text](HackPad-github\images\schematic.png)
-![Alt text](HackPad-github\images\pcb_routing.png)
-![Alt text](HackPad-github\images\pcb_top.png)
-![Alt text](HackPad-github\images\pcb_bottom.png)
+![Alt text](HackPad-github/images/schematic.png)
+![Alt text](HackPad-github/images/pcb_routing.png)
+![Alt text](HackPad-github/images/pcb_top.png)
+![Alt text](HackPad-github/images/pcb_bottom.png)
 
 
 ### Case
@@ -86,11 +86,11 @@ Designed and built as a Hack Club hardware project.
 - Designed for FDM printing (PLA+ / PETG recommended)
 
 ## Case Images
-![Alt text](HackPad-github\images\case_full_pcb_render.png)
-![Alt text](HackPad-github\images\case_full_side_fit.png)
-![Alt text](HackPad-github\images\case_bottom_pcb_render.png)
-![Alt text](HackPad-github\images\case_bottom_render.png)
-![Alt text](HackPad-github\images\case_top_render.png)
+![Alt text](HackPad-github/images/case_full_pcb_render.png)
+![Alt text](HackPad-github/images/case_full_side_fit.png)
+![Alt text](HackPad-github/images/case_bottom_pcb_render.png)
+![Alt text](HackPad-github/images/case_bottom_render.png)
+![Alt text](HackPad-github/images/case_top_render.png)
 
 
 ---
