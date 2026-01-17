@@ -59,6 +59,13 @@ Designed and built as a Hack Club hardware project.
 - PDF exports of schematic and PCB
 - STEP file for enclosure design
 
+## PCB Images
+![Alt text](HackPad-github\images\schematic.png)
+![Alt text](HackPad-github\images\pcb_routing.png)
+![Alt text](HackPad-github\images\pcb_top.png)
+![Alt text](HackPad-github\images\pcb_bottom.png)
+
+
 ### Case
 - Fusion 360 design file
 - STL files for:
@@ -77,6 +84,14 @@ Designed and built as a Hack Club hardware project.
 - Internal snup-fit using wall thickness
 - PCB is fully supported without mounting holes
 - Designed for FDM printing (PLA+ / PETG recommended)
+
+## Case Images
+![Alt text](HackPad-github\images\case_full_pcb_render.png)
+![Alt text](HackPad-github\images\case_full_side_fit.png)
+![Alt text](HackPad-github\images\case_bottom_pcb_render.png)
+![Alt text](HackPad-github\images\case_bottom_render.png)
+![Alt text](HackPad-github\images\case_top_render.png)
+
 
 ---
 
