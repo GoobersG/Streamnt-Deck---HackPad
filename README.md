@@ -64,6 +64,10 @@ Designed and built as a Hack Club hardware project.
 - STL files for:
   - `case_top.stl`
   - `case_bottom.stl`
+-STEP files for:
+  - `case_bottom.step`
+  - `case_top.step`
+  - `hackpad_case_assembly.step`
 
 ---
 
