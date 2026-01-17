@@ -87,7 +87,7 @@ Designed and built as a Hack Club hardware project.
 
 ## Case Images
 ![Alt text](HackPad-github/images/case_full_pcb_render.png)
-![Alt text](HackPad-github/images/case_full_side_fit.png)
+![Alt text](HackPad-github/images/case_full_side_fit_render.png)
 ![Alt text](HackPad-github/images/case_bottom_pcb_render.png)
 ![Alt text](HackPad-github/images/case_bottom_render.png)
 ![Alt text](HackPad-github/images/case_top_render.png)
